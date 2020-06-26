@@ -1,0 +1,13 @@
+.container-fluid {
+    font-family: sans-serif;
+    background: url('https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    opacity: .9;
+    background-color: #eeeeee;
+    border: 1px solid #062F4F;
+    height: 40vh;
+}
